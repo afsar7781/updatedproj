@@ -1,0 +1,25 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+.signup-main-component{
+  /* background-image: url('./assets/images/signup-background.jpg'); */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  margin-top: 0px;
+}
+
+.main-container-signup{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.signup-image{
+  height: 100vh;
+  width: 50%;
+}
